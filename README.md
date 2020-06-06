@@ -17,5 +17,4 @@
     click refresh button to see Info
     Delete will remove from DB.
     
-    <img src="https://drive.google.com/file/d/1oTEEvbPedR3pN7i-fd20tM6mr-dZyhdq/view?usp=sharing" alt="My cool logo"/>
-
+   
