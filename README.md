@@ -18,4 +18,6 @@
     Delete will remove from DB.
     
    
-![Optional Text](../master/UIMod.jpg)
+<p align="center">
+  <img src=master/UIMod.jpg" width="350" title="hover text">
+</p>
