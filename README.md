@@ -16,4 +16,6 @@
     Add Info http://DNS.com/PORTAL   (no / at the end of portal)
     click refresh button to see Info
     Delete will remove from DB.
-![Screenshot](https://drive.google.com/file/d/1oTEEvbPedR3pN7i-fd20tM6mr-dZyhdq/view?usp=sharing)
+    
+    <img src="https://drive.google.com/file/d/1oTEEvbPedR3pN7i-fd20tM6mr-dZyhdq/view?usp=sharing" alt="My cool logo"/>
+
