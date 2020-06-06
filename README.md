@@ -19,5 +19,5 @@
     
    
 <p align="center">
-  <img src=master/UIMod.jpg" width="350" title="hover text">
+  <img src=https://github.com/techker/Xtream-UI-MOD-1-Provider-Conn/blob/master/UIMod.jpeg" width="350">
 </p>
