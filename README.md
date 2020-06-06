@@ -19,6 +19,7 @@
     
    
 <p align="center">
- ![Screenshot](UIMod.jpeg)
-  <img src=https://github.com/techker/Xtream-UI-MOD-1-Provider-Conn/blob/master/UIMod.jpeg" width="350">
+
+ ![alt text](https://github.com/techker/Xtream-UI-MOD-1-Provider-Conn/blob/master/UIMod.jpeg?raw=true)
+
 </p>
